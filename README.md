@@ -1,2 +1,2 @@
 # apollo
-try to sync Visual Studio Code with github
+Python script tp rint out a song text
